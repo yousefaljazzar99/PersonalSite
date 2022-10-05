@@ -1,8 +1,8 @@
-# PersonalSite
+# Personal Site App
 
-PersonalSite App with provider [MVC pattern] 👨🏻‍💻
+Personal Site App with provider [MVC pattern] 👨🏻‍💻
 
-PersonalSite app is open-source  app for Android & ios & Desktop & Web. It is built with Dart on top of Google's Flutter Framework.
+Personal Site app is open-source  app for Android & ios & Desktop & Web. It is built with Dart on top of Google's Flutter Framework.
 
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
